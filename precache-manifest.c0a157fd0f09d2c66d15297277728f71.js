@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/static/media/acm_meeting.32d87204.jpg"
   },
   {
-    "revision": "1a0548bd004c46b70c51",
-    "url": "/static/css/main.9d927e74.chunk.css"
+    "revision": "c96fe298fcc9d84c5d83",
+    "url": "/static/css/main.58373e16.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "90b5e4d211ee630513726139289e2ef0",
-    "url": "/static/media/finals.90b5e4d2.png"
+    "revision": "ce660ad899833cc74b6a703cd7cb1565",
+    "url": "/static/media/thanksgiving.ce660ad8.png"
   },
   {
-    "revision": "5f080d8ae3e262cd4232",
+    "revision": "6144c199f2d0f771150b",
     "url": "/static/js/2.553d5c93.chunk.js"
   },
   {
@@ -124,8 +124,8 @@ self.__precacheManifest = [
     "url": "/static/media/pooyatalk.165aa801.jpg"
   },
   {
-    "revision": "1a0548bd004c46b70c51",
-    "url": "/static/js/main.b00fcad0.chunk.js"
+    "revision": "c96fe298fcc9d84c5d83",
+    "url": "/static/js/main.d490f2b3.chunk.js"
   },
   {
     "revision": "01ee01202904eb83ee3daccde5403d70",
@@ -236,15 +236,15 @@ self.__precacheManifest = [
     "url": "/static/media/sdowdle.4c3895d0.jpg"
   },
   {
-    "revision": "ce660ad899833cc74b6a703cd7cb1565",
-    "url": "/static/media/thanksgiving.ce660ad8.png"
+    "revision": "90b5e4d211ee630513726139289e2ef0",
+    "url": "/static/media/finals.90b5e4d2.png"
   },
   {
-    "revision": "5f080d8ae3e262cd4232",
-    "url": "/static/css/2.5ac049b7.chunk.css"
+    "revision": "6144c199f2d0f771150b",
+    "url": "/static/css/2.8b383504.chunk.css"
   },
   {
-    "revision": "dc612bc66eaaea4f6a246d5a0405e994",
+    "revision": "8bc1d888504eab93b52c873d5d69835c",
     "url": "/index.html"
   }
 ];

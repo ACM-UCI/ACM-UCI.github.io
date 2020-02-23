@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/fb.2606b0a9.png"
   },
   {
-    "revision": "141095cc663e95aaad86",
+    "revision": "b2ce3ded4408f36d5368",
     "url": "/static/css/main.16a9f6f9.chunk.css"
   },
   {
@@ -128,8 +128,8 @@ self.__precacheManifest = [
     "url": "/static/media/facebooktech.9d3bdb15.png"
   },
   {
-    "revision": "141095cc663e95aaad86",
-    "url": "/static/js/main.776f911b.chunk.js"
+    "revision": "b2ce3ded4408f36d5368",
+    "url": "/static/js/main.4a6c92c7.chunk.js"
   },
   {
     "revision": "495e0e61036ec402e3e795bf14a147c4",
@@ -256,7 +256,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.9d4f3777.chunk.css"
   },
   {
-    "revision": "ed1a9df33995599b31d0ceec909b1949",
+    "revision": "4bdf35d362cb92101c39a80213ef7b72",
     "url": "/index.html"
   }
 ];

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3b3f752.chunk.css",
-    "main.js": "/static/js/main.b5b63e8f.chunk.js",
-    "main.js.map": "/static/js/main.b5b63e8f.chunk.js.map",
+    "main.css": "/static/css/main.a0d6753f.chunk.css",
+    "main.js": "/static/js/main.389e9f01.chunk.js",
+    "main.js.map": "/static/js/main.389e9f01.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.696d0971.js",
     "runtime-main.js.map": "/static/js/runtime-main.696d0971.js.map",
     "static/css/2.b0a90bf7.chunk.css": "/static/css/2.b0a90bf7.chunk.css",
-    "static/js/2.95b5a96e.chunk.js": "/static/js/2.95b5a96e.chunk.js",
-    "static/js/2.95b5a96e.chunk.js.map": "/static/js/2.95b5a96e.chunk.js.map",
+    "static/js/2.60bec4e8.chunk.js": "/static/js/2.60bec4e8.chunk.js",
+    "static/js/2.60bec4e8.chunk.js.map": "/static/js/2.60bec4e8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f94e4ebc8bf4eccfca0de8217a45518f.js": "/precache-manifest.f94e4ebc8bf4eccfca0de8217a45518f.js",
+    "precache-manifest.3114c27b4d78fea3fe6cda9725464bcb.js": "/precache-manifest.3114c27b4d78fea3fe6cda9725464bcb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b0a90bf7.chunk.css.map": "/static/css/2.b0a90bf7.chunk.css.map",
-    "static/css/main.c3b3f752.chunk.css.map": "/static/css/main.c3b3f752.chunk.css.map",
-    "static/js/2.95b5a96e.chunk.js.LICENSE.txt": "/static/js/2.95b5a96e.chunk.js.LICENSE.txt",
+    "static/css/main.a0d6753f.chunk.css.map": "/static/css/main.a0d6753f.chunk.css.map",
+    "static/js/2.60bec4e8.chunk.js.LICENSE.txt": "/static/js/2.60bec4e8.chunk.js.LICENSE.txt",
     "static/media/ACMxWICS.jpg": "/static/media/ACMxWICS.7a21f6ac.jpg",
     "static/media/Website_2020.png": "/static/media/Website_2020.3dbc0b75.png",
     "static/media/Website_2020.jpg": "/static/media/Website_2020.dfff3e8f.jpg",
@@ -54,6 +54,7 @@
     "static/media/internal_comp_0.jpg": "/static/media/internal_comp_0.b71156be.jpg",
     "static/media/jacky.jpg": "/static/media/jacky.31919012.jpg",
     "static/media/jackytalk.jpg": "/static/media/jackytalk.0e9a594b.jpg",
+    "static/media/javameme.jpg": "/static/media/javameme.6c04ede0.jpg",
     "static/media/jens.jpg": "/static/media/jens.0afbed97.jpg",
     "static/media/jenstalk.jpg": "/static/media/jenstalk.4a34ef60.jpg",
     "static/media/jumbo-img.png": "/static/media/jumbo-img.ba5dd1b0.png",
@@ -80,8 +81,8 @@
   "entrypoints": [
     "static/js/runtime-main.696d0971.js",
     "static/css/2.b0a90bf7.chunk.css",
-    "static/js/2.95b5a96e.chunk.js",
-    "static/css/main.c3b3f752.chunk.css",
-    "static/js/main.b5b63e8f.chunk.js"
+    "static/js/2.60bec4e8.chunk.js",
+    "static/css/main.a0d6753f.chunk.css",
+    "static/js/main.389e9f01.chunk.js"
   ]
 }

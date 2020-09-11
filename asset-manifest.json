@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d67e4464.chunk.css",
-    "main.js": "/static/js/main.3d6d2101.chunk.js",
-    "main.js.map": "/static/js/main.3d6d2101.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.696d0971.js",
-    "runtime-main.js.map": "/static/js/runtime-main.696d0971.js.map",
-    "static/css/2.b0a90bf7.chunk.css": "/static/css/2.b0a90bf7.chunk.css",
-    "static/js/2.9bd0a765.chunk.js": "/static/js/2.9bd0a765.chunk.js",
-    "static/js/2.9bd0a765.chunk.js.map": "/static/js/2.9bd0a765.chunk.js.map",
+    "main.css": "/static/css/main.349fd3f3.chunk.css",
+    "main.js": "/static/js/main.cd3f0b39.chunk.js",
+    "main.js.map": "/static/js/main.cd3f0b39.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf71339a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf71339a.js.map",
+    "static/css/2.93290233.chunk.css": "/static/css/2.93290233.chunk.css",
+    "static/js/2.70f22cc3.chunk.js": "/static/js/2.70f22cc3.chunk.js",
+    "static/js/2.70f22cc3.chunk.js.map": "/static/js/2.70f22cc3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.59dae0bebd914b6aa12a82b840e08af0.js": "/precache-manifest.59dae0bebd914b6aa12a82b840e08af0.js",
+    "precache-manifest.56d5e35d40aff43941bb0750af76a13f.js": "/precache-manifest.56d5e35d40aff43941bb0750af76a13f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.b0a90bf7.chunk.css.map": "/static/css/2.b0a90bf7.chunk.css.map",
-    "static/css/main.d67e4464.chunk.css.map": "/static/css/main.d67e4464.chunk.css.map",
-    "static/js/2.9bd0a765.chunk.js.LICENSE.txt": "/static/js/2.9bd0a765.chunk.js.LICENSE.txt",
+    "static/css/2.93290233.chunk.css.map": "/static/css/2.93290233.chunk.css.map",
+    "static/css/main.349fd3f3.chunk.css.map": "/static/css/main.349fd3f3.chunk.css.map",
+    "static/js/2.70f22cc3.chunk.js.LICENSE.txt": "/static/js/2.70f22cc3.chunk.js.LICENSE.txt",
     "static/media/ACMxWICS.jpg": "/static/media/ACMxWICS.7a21f6ac.jpg",
     "static/media/UCIxUCSD.png": "/static/media/UCIxUCSD.3bee4115.png",
     "static/media/Website_2020.png": "/static/media/Website_2020.3dbc0b75.png",
@@ -80,10 +80,10 @@
     "static/media/timj.jpg": "/static/media/timj.060436a1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.696d0971.js",
-    "static/css/2.b0a90bf7.chunk.css",
-    "static/js/2.9bd0a765.chunk.js",
-    "static/css/main.d67e4464.chunk.css",
-    "static/js/main.3d6d2101.chunk.js"
+    "static/js/runtime-main.bf71339a.js",
+    "static/css/2.93290233.chunk.css",
+    "static/js/2.70f22cc3.chunk.js",
+    "static/css/main.349fd3f3.chunk.css",
+    "static/js/main.cd3f0b39.chunk.js"
   ]
 }

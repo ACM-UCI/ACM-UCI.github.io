@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fea6b10d.chunk.css",
-    "main.js": "/static/js/main.5c28b210.chunk.js",
-    "main.js.map": "/static/js/main.5c28b210.chunk.js.map",
+    "main.css": "/static/css/main.33352dd0.chunk.css",
+    "main.js": "/static/js/main.cb84cd47.chunk.js",
+    "main.js.map": "/static/js/main.cb84cd47.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bf71339a.js",
     "runtime-main.js.map": "/static/js/runtime-main.bf71339a.js.map",
     "static/css/2.02334ada.chunk.css": "/static/css/2.02334ada.chunk.css",
-    "static/js/2.56116809.chunk.js": "/static/js/2.56116809.chunk.js",
-    "static/js/2.56116809.chunk.js.map": "/static/js/2.56116809.chunk.js.map",
+    "static/js/2.71607f4c.chunk.js": "/static/js/2.71607f4c.chunk.js",
+    "static/js/2.71607f4c.chunk.js.map": "/static/js/2.71607f4c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.67fcf47a51a5eb879b821499f7b9ecac.js": "/precache-manifest.67fcf47a51a5eb879b821499f7b9ecac.js",
+    "precache-manifest.a54717802614654c8b2e02a7739545c6.js": "/precache-manifest.a54717802614654c8b2e02a7739545c6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.02334ada.chunk.css.map": "/static/css/2.02334ada.chunk.css.map",
-    "static/css/main.fea6b10d.chunk.css.map": "/static/css/main.fea6b10d.chunk.css.map",
-    "static/js/2.56116809.chunk.js.LICENSE.txt": "/static/js/2.56116809.chunk.js.LICENSE.txt",
+    "static/css/main.33352dd0.chunk.css.map": "/static/css/main.33352dd0.chunk.css.map",
+    "static/js/2.71607f4c.chunk.js.LICENSE.txt": "/static/js/2.71607f4c.chunk.js.LICENSE.txt",
     "static/media/ACMxWICS.jpg": "/static/media/ACMxWICS.7a21f6ac.jpg",
     "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.f43e8696.woff2",
     "static/media/UCIxUCSD.png": "/static/media/UCIxUCSD.3bee4115.png",
@@ -81,13 +81,16 @@
     "static/media/seminar_winter_2019.jpg": "/static/media/seminar_winter_2019.3af3ddbb.jpg",
     "static/media/shaun.jpg": "/static/media/shaun.c4758730.jpg",
     "static/media/tim.jpg": "/static/media/tim.058d4b69.jpg",
-    "static/media/timj.jpg": "/static/media/timj.060436a1.jpg"
+    "static/media/timj.jpg": "/static/media/timj.060436a1.jpg",
+    "static/media/toilet_paper_travesty.py": "/static/media/toilet_paper_travesty.40ee8ae6.py",
+    "static/media/toilet_paper_travesty.cpp": "/static/media/toilet_paper_travesty.5931a4cf.cpp",
+    "static/media/toilet_paper_travesty.java": "/static/media/toilet_paper_travesty.f474613b.java"
   },
   "entrypoints": [
     "static/js/runtime-main.bf71339a.js",
     "static/css/2.02334ada.chunk.css",
-    "static/js/2.56116809.chunk.js",
-    "static/css/main.fea6b10d.chunk.css",
-    "static/js/main.5c28b210.chunk.js"
+    "static/js/2.71607f4c.chunk.js",
+    "static/css/main.33352dd0.chunk.css",
+    "static/js/main.cb84cd47.chunk.js"
   ]
 }

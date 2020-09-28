@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b8a8385.chunk.css",
-    "main.js": "/static/js/main.7e2b99f2.chunk.js",
-    "main.js.map": "/static/js/main.7e2b99f2.chunk.js.map",
+    "main.css": "/static/css/main.5cddca7a.chunk.css",
+    "main.js": "/static/js/main.5e03c6b5.chunk.js",
+    "main.js.map": "/static/js/main.5e03c6b5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bf71339a.js",
     "runtime-main.js.map": "/static/js/runtime-main.bf71339a.js.map",
     "static/css/2.efa2be7c.chunk.css": "/static/css/2.efa2be7c.chunk.css",
-    "static/js/2.6780a908.chunk.js": "/static/js/2.6780a908.chunk.js",
-    "static/js/2.6780a908.chunk.js.map": "/static/js/2.6780a908.chunk.js.map",
+    "static/js/2.79cd7bd4.chunk.js": "/static/js/2.79cd7bd4.chunk.js",
+    "static/js/2.79cd7bd4.chunk.js.map": "/static/js/2.79cd7bd4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.debc551da720e08286de0cd8d85c7780.js": "/precache-manifest.debc551da720e08286de0cd8d85c7780.js",
+    "precache-manifest.983f0a58dccb5fb98097289a164d7ea0.js": "/precache-manifest.983f0a58dccb5fb98097289a164d7ea0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.efa2be7c.chunk.css.map": "/static/css/2.efa2be7c.chunk.css.map",
-    "static/css/main.6b8a8385.chunk.css.map": "/static/css/main.6b8a8385.chunk.css.map",
-    "static/js/2.6780a908.chunk.js.LICENSE.txt": "/static/js/2.6780a908.chunk.js.LICENSE.txt",
+    "static/css/main.5cddca7a.chunk.css.map": "/static/css/main.5cddca7a.chunk.css.map",
+    "static/js/2.79cd7bd4.chunk.js.LICENSE.txt": "/static/js/2.79cd7bd4.chunk.js.LICENSE.txt",
     "static/media/ACMxWICS.jpg": "/static/media/ACMxWICS.7a21f6ac.jpg",
     "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.f43e8696.woff2",
     "static/media/UCIxUCSD.png": "/static/media/UCIxUCSD.3bee4115.png",
@@ -77,6 +77,9 @@
     "static/media/long_distance_social_distance_i.cpp": "/static/media/long_distance_social_distance_i.323b3ca3.cpp",
     "static/media/long_distance_social_distance_i.py": "/static/media/long_distance_social_distance_i.38a873a9.py",
     "static/media/long_distance_social_distance_i.java": "/static/media/long_distance_social_distance_i.f32381bf.java",
+    "static/media/long_distance_social_distancing_ii.java": "/static/media/long_distance_social_distancing_ii.0cb4c826.java",
+    "static/media/long_distance_social_distancing_ii.py": "/static/media/long_distance_social_distancing_ii.51364be1.py",
+    "static/media/long_distance_social_distancing_ii.cpp": "/static/media/long_distance_social_distancing_ii.8bc414bc.cpp",
     "static/media/mansion.cpp": "/static/media/mansion.3c86260c.cpp",
     "static/media/mansion.py": "/static/media/mansion.a1b86738.py",
     "static/media/meta.jpg": "/static/media/meta.1282686f.jpg",
@@ -99,8 +102,8 @@
   "entrypoints": [
     "static/js/runtime-main.bf71339a.js",
     "static/css/2.efa2be7c.chunk.css",
-    "static/js/2.6780a908.chunk.js",
-    "static/css/main.6b8a8385.chunk.css",
-    "static/js/main.7e2b99f2.chunk.js"
+    "static/js/2.79cd7bd4.chunk.js",
+    "static/css/main.5cddca7a.chunk.css",
+    "static/js/main.5e03c6b5.chunk.js"
   ]
 }

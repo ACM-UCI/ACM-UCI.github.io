@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5cddca7a.chunk.css",
-    "main.js": "/static/js/main.c7526ec5.chunk.js",
-    "main.js.map": "/static/js/main.c7526ec5.chunk.js.map",
+    "main.js": "/static/js/main.cd13d685.chunk.js",
+    "main.js.map": "/static/js/main.cd13d685.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bf71339a.js",
     "runtime-main.js.map": "/static/js/runtime-main.bf71339a.js.map",
     "static/css/2.efa2be7c.chunk.css": "/static/css/2.efa2be7c.chunk.css",
-    "static/js/2.c4c3bb3a.chunk.js": "/static/js/2.c4c3bb3a.chunk.js",
-    "static/js/2.c4c3bb3a.chunk.js.map": "/static/js/2.c4c3bb3a.chunk.js.map",
+    "static/js/2.df8bea76.chunk.js": "/static/js/2.df8bea76.chunk.js",
+    "static/js/2.df8bea76.chunk.js.map": "/static/js/2.df8bea76.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d2568db51981a3b8af77405d8b6c0e68.js": "/precache-manifest.d2568db51981a3b8af77405d8b6c0e68.js",
+    "precache-manifest.1257342b0e6464c498e8e6d7b359af23.js": "/precache-manifest.1257342b0e6464c498e8e6d7b359af23.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.efa2be7c.chunk.css.map": "/static/css/2.efa2be7c.chunk.css.map",
     "static/css/main.5cddca7a.chunk.css.map": "/static/css/main.5cddca7a.chunk.css.map",
-    "static/js/2.c4c3bb3a.chunk.js.LICENSE.txt": "/static/js/2.c4c3bb3a.chunk.js.LICENSE.txt",
+    "static/js/2.df8bea76.chunk.js.LICENSE.txt": "/static/js/2.df8bea76.chunk.js.LICENSE.txt",
     "static/media/ACMxWICS.jpg": "/static/media/ACMxWICS.7a21f6ac.jpg",
     "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.f43e8696.woff2",
     "static/media/UCIxUCSD.png": "/static/media/UCIxUCSD.3bee4115.png",
@@ -88,6 +88,7 @@
     "static/media/pattis.jpg": "/static/media/pattis.70e67533.jpg",
     "static/media/pooya.jpg": "/static/media/pooya.c0c216dd.jpg",
     "static/media/pooyatalk.jpg": "/static/media/pooyatalk.165aa801.jpg",
+    "static/media/ryansy.jpg": "/static/media/ryansy.229766f0.jpg",
     "static/media/sdowdle.jpg": "/static/media/sdowdle.4c3895d0.jpg",
     "static/media/seminar_winter_2019.jpg": "/static/media/seminar_winter_2019.3af3ddbb.jpg",
     "static/media/shaun.jpg": "/static/media/shaun.c4758730.jpg",
@@ -102,8 +103,8 @@
   "entrypoints": [
     "static/js/runtime-main.bf71339a.js",
     "static/css/2.efa2be7c.chunk.css",
-    "static/js/2.c4c3bb3a.chunk.js",
+    "static/js/2.df8bea76.chunk.js",
     "static/css/main.5cddca7a.chunk.css",
-    "static/js/main.c7526ec5.chunk.js"
+    "static/js/main.cd13d685.chunk.js"
   ]
 }

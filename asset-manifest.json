@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebd67a87.chunk.css",
-    "main.js": "/static/js/main.381e0133.chunk.js",
-    "main.js.map": "/static/js/main.381e0133.chunk.js.map",
+    "main.css": "/static/css/main.8b5c50dc.chunk.css",
+    "main.js": "/static/js/main.8f60afe6.chunk.js",
+    "main.js.map": "/static/js/main.8f60afe6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.69648149.js",
     "runtime-main.js.map": "/static/js/runtime-main.69648149.js.map",
-    "static/css/2.3acb8c17.chunk.css": "/static/css/2.3acb8c17.chunk.css",
-    "static/js/2.ea79fad0.chunk.js": "/static/js/2.ea79fad0.chunk.js",
-    "static/js/2.ea79fad0.chunk.js.map": "/static/js/2.ea79fad0.chunk.js.map",
+    "static/css/2.4f1cd7cc.chunk.css": "/static/css/2.4f1cd7cc.chunk.css",
+    "static/js/2.a948f0ba.chunk.js": "/static/js/2.a948f0ba.chunk.js",
+    "static/js/2.a948f0ba.chunk.js.map": "/static/js/2.a948f0ba.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.3acb8c17.chunk.css.map": "/static/css/2.3acb8c17.chunk.css.map",
-    "static/css/main.ebd67a87.chunk.css.map": "/static/css/main.ebd67a87.chunk.css.map",
-    "static/js/2.ea79fad0.chunk.js.LICENSE.txt": "/static/js/2.ea79fad0.chunk.js.LICENSE.txt",
+    "static/css/2.4f1cd7cc.chunk.css.map": "/static/css/2.4f1cd7cc.chunk.css.map",
+    "static/css/main.8b5c50dc.chunk.css.map": "/static/css/main.8b5c50dc.chunk.css.map",
+    "static/js/2.a948f0ba.chunk.js.LICENSE.txt": "/static/js/2.a948f0ba.chunk.js.LICENSE.txt",
     "static/media/2021_icpc_nadc.webp": "/static/media/2021_icpc_nadc.54833a69.webp",
     "static/media/ACMxWICS.jpg": "/static/media/ACMxWICS.b1056639.jpg",
     "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.c5441b17.ttf",
@@ -84,6 +84,7 @@
     "static/media/long_distance_social_distancing_ii.dc50da2e.java": "/static/media/long_distance_social_distancing_ii.dc50da2e.java",
     "static/media/mansion.8eca31e4.py": "/static/media/mansion.8eca31e4.py",
     "static/media/mansion.f159b72f.cpp": "/static/media/mansion.f159b72f.cpp",
+    "static/media/mantian.gif": "/static/media/mantian.f844bad4.gif",
     "static/media/mantoun.jpg": "/static/media/mantoun.98dd4ed8.jpg",
     "static/media/meta.jpg": "/static/media/meta.db28fc86.jpg",
     "static/media/ofri.jpg": "/static/media/ofri.a5cb843c.jpg",
@@ -108,9 +109,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.69648149.js",
-    "static/css/2.3acb8c17.chunk.css",
-    "static/js/2.ea79fad0.chunk.js",
-    "static/css/main.ebd67a87.chunk.css",
-    "static/js/main.381e0133.chunk.js"
+    "static/css/2.4f1cd7cc.chunk.css",
+    "static/js/2.a948f0ba.chunk.js",
+    "static/css/main.8b5c50dc.chunk.css",
+    "static/js/main.8f60afe6.chunk.js"
   ]
 }

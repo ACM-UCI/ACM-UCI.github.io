@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b5c50dc.chunk.css",
-    "main.js": "/static/js/main.540013f9.chunk.js",
-    "main.js.map": "/static/js/main.540013f9.chunk.js.map",
+    "main.css": "/static/css/main.1e19e08d.chunk.css",
+    "main.js": "/static/js/main.6c03fbbe.chunk.js",
+    "main.js.map": "/static/js/main.6c03fbbe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.69648149.js",
     "runtime-main.js.map": "/static/js/runtime-main.69648149.js.map",
     "static/css/2.4f1cd7cc.chunk.css": "/static/css/2.4f1cd7cc.chunk.css",
-    "static/js/2.8f795135.chunk.js": "/static/js/2.8f795135.chunk.js",
-    "static/js/2.8f795135.chunk.js.map": "/static/js/2.8f795135.chunk.js.map",
+    "static/js/2.f89eb38e.chunk.js": "/static/js/2.f89eb38e.chunk.js",
+    "static/js/2.f89eb38e.chunk.js.map": "/static/js/2.f89eb38e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4f1cd7cc.chunk.css.map": "/static/css/2.4f1cd7cc.chunk.css.map",
-    "static/css/main.8b5c50dc.chunk.css.map": "/static/css/main.8b5c50dc.chunk.css.map",
-    "static/js/2.8f795135.chunk.js.LICENSE.txt": "/static/js/2.8f795135.chunk.js.LICENSE.txt",
+    "static/css/main.1e19e08d.chunk.css.map": "/static/css/main.1e19e08d.chunk.css.map",
+    "static/js/2.f89eb38e.chunk.js.LICENSE.txt": "/static/js/2.f89eb38e.chunk.js.LICENSE.txt",
     "static/media/2021_icpc_nadc.webp": "/static/media/2021_icpc_nadc.54833a69.webp",
     "static/media/ACMxWICS.jpg": "/static/media/ACMxWICS.b1056639.jpg",
     "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.c5441b17.ttf",
@@ -96,6 +96,7 @@
     "static/media/pooyatalk.jpg": "/static/media/pooyatalk.274ef291.jpg",
     "static/media/rhsakuma.jpg": "/static/media/rhsakuma.f7922c6c.jpg",
     "static/media/ryansy.jpg": "/static/media/ryansy.37328ce4.jpg",
+    "static/media/sder.jpg": "/static/media/sder.dae25893.jpg",
     "static/media/sdowdle.jpg": "/static/media/sdowdle.64d1a248.jpg",
     "static/media/seminar_winter_2019.jpg": "/static/media/seminar_winter_2019.b291c686.jpg",
     "static/media/shaun.jpg": "/static/media/shaun.8d96ebda.jpg",
@@ -107,13 +108,14 @@
     "static/media/toilet_paper_travesty.1ba386a6.py": "/static/media/toilet_paper_travesty.1ba386a6.py",
     "static/media/toilet_paper_travesty.988fd125.cpp": "/static/media/toilet_paper_travesty.988fd125.cpp",
     "static/media/toilet_paper_travesty.b2ce4487.java": "/static/media/toilet_paper_travesty.b2ce4487.java",
-    "static/media/tshridha.JPG": "/static/media/tshridha.7f5a7134.JPG"
+    "static/media/tshridha.JPG": "/static/media/tshridha.7f5a7134.JPG",
+    "static/media/zcsu.jpg": "/static/media/zcsu.88e95ab9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.69648149.js",
     "static/css/2.4f1cd7cc.chunk.css",
-    "static/js/2.8f795135.chunk.js",
-    "static/css/main.8b5c50dc.chunk.css",
-    "static/js/main.540013f9.chunk.js"
+    "static/js/2.f89eb38e.chunk.js",
+    "static/css/main.1e19e08d.chunk.css",
+    "static/js/main.6c03fbbe.chunk.js"
   ]
 }
